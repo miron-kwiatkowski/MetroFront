@@ -27,3 +27,19 @@ input, button {
     padding: 0.5rem;
     margin-bottom: 1rem;
 }
+button.facebook-login-btn {
+    background-color: #1877f2 !important;
+    color: white !important;
+    border: none !important;
+    padding: 10px 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    transition: background 0.2s ease-in-out;
+}
+
+button.facebook-login-btn:hover {
+    background-color: #145dbf !important;
+}
