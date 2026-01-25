@@ -26,7 +26,3 @@ Domyślny adres frontendu: `http://localhost:5173`.
 - widok schematu: canvas do rozmieszczania stacji (drag&drop, zapis pozycji),
 - CRUD stacji (dodawanie, edycja, usuwanie),
 - dodawanie linii,
-- udostępnianie schematu po `UserId` (zakładka **Profil**),
-- podgląd statystyk + przeliczanie.
-
-> Uwaga: backend aktualnie nie zwraca informacji o powiązaniach stacja↔linia, więc frontend pokazuje je głównie w kontekście tworzenia stacji.
